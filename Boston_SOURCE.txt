@@ -1,0 +1,1 @@
+Boston.csv: copy of ISLP/data/Boston.csv (ISLP 0.6.0), data of the book James et al., An Introduction to Statistical Learning. https://www.statlearning.com/
